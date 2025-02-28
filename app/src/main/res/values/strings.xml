@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Track My Pregnancy</string>
+    <string name="sys_bp">Sys BP</string>
+    <string name="dia_bp">Dia BP</string>
+    <string name="weight_in_kg">Weight ( in kg )</string>
+    <string name="baby_kicks">Baby Kicks</string>
+    <string name="add_vitals">Add Vitals</string>
+    <string name="all_fields_required">All Fields are Required.</string>
+</resources>
